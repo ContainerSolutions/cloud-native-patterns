@@ -1,31 +1,3 @@
-<div data-collapse="medium" data-animation="default" data-duration="400" class="navbar-5 w-nav">
-
-<div class="container-8 w-container">[
-
-<div class="text-block-4">cnpatterns</div>
-
-](/)
-
-<nav role="navigation" class="nav-menu-5 w-nav-menu">[Home](/)
-
-<div data-delay="0" class="w-dropdown">
-
-<div class="dropdown-toggle w-dropdown-toggle">[Patterns Library](/patterns-library)</div>
-
-<nav class="dropdown-list-2 w-dropdown-list">[Strategy & Risk Reduction](/strategy-risk-reduction)[Organization & Culture](/organization-culture)[Development & Design](/development-design)[Infrastructure & Cloud](/infrastructure-cloud)</nav>
-
-</div>
-
-[Get the Cards](https://www.container-solutions.com/cloud-native-transformation-patterns-cards-order)[How to Use](/how-to-use-cards)[Contact Us](/contact-us)</nav>
-
-</div>
-
-</div>
-
-<div class="section-17">
-
-<div class="container-23 w-container">[Return](/strategy-risk-reduction)
-
 # Pattern: Business Case  
 ‍
 
