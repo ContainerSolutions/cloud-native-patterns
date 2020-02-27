@@ -3,6 +3,8 @@
 
 Before launching a cloud native transformation, an enterprise’s leadership must makesure the initiative is needed and that the benefits will justify the investment
 
+![](/-business-case.png)
+
 A company is experiencing pressure, whether from the market or internally, to moveto cloud native. The executive team is contemplating making the move to cloudnative, but there is little internal knowledge of cloud native tech and culture orunderstanding of its benefits.  
 ‍
 
