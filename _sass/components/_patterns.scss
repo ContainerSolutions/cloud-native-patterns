@@ -1,0 +1,82 @@
+$development-design-color: #e16b63;
+$infrastructure-cloud-color: #7a60a3;
+$organization-culture-color: #6eb2df;
+$strategy-risk-reduction-color: #80bfb1;
+
+.button {
+  &.development-design {
+    background-color: #{$development-design-color};
+  }
+
+  &.infrastructure-cloud {
+    background-color: #{$infrastructure-cloud-color};
+  }
+
+  &.organization-culture {
+    background-color: #{$organization-culture-color};
+  }
+
+  &.strategy-risk-reduction {
+    background-color: #{$strategy-risk-reduction-color};
+  }
+}
+
+.dropdown-menu,
+.header-strip {
+  &.patterns-library {
+    background-color: #000;
+    color: #fff;
+  }
+
+  &.development-design {
+    background-color: #{$development-design-color};
+    color: #000;
+  }
+
+  &.infrastructure-cloud {
+    background-color: #{$infrastructure-cloud-color};
+    color: #000;
+  }
+
+  &.organization-culture {
+    background-color: #{$organization-culture-color};
+    color: #000;
+  }
+
+  &.strategy-risk-reduction {
+    background-color: #{$strategy-risk-reduction-color};
+    color: #000;
+  }
+}
+
+.title-strip {
+  &.patterns-library {
+    background-color: #000;
+    background-image: url("#{$baseurl}/assets/images/pattern%20white_1.png");
+    color: #fff;
+  }
+
+  &.development-design {
+    background-color: #{$development-design-color};
+    background-image: url("#{$baseurl}/assets/images/pattern%20white_1.png");
+    color: #fff;
+  }
+
+  &.infrastructure-cloud {
+    background-color: #{$infrastructure-cloud-color};
+    background-image: url("#{$baseurl}/assets/images/pattern%20white_1.png");
+    color: #fff;
+  }
+
+  &.organization-culture {
+    background-color: #{$organization-culture-color};
+    background-image: url("#{$baseurl}/assets/images/pattern%20white_1.png");
+    color: #fff;
+  }
+
+  &.strategy-risk-reduction {
+    background-color: #{$strategy-risk-reduction-color};
+    background-image: url("#{$baseurl}/assets/images/pattern%20white_1.png");
+    color: #fff;
+  }
+}

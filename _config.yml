@@ -1,0 +1,16 @@
+---
+name: Cloud Native Transformation Patterns
+title: Cloud Native Transformation Patterns
+
+kramdown: 
+  parse_block_html: true
+
+collections:
+  development-design:
+    output: true
+  infrastructure-cloud:
+    output: true
+  organization-culture:
+    output: true
+  strategy-risk-reduction:
+    output: true

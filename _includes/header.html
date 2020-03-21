@@ -1,0 +1,27 @@
+<div class="header-strip {{ page.collection }} {{ page.name | split: "." | first }}">
+  <div class="header navbar navbar-expand-lg">
+    <div class="logo">
+      <a href="{{ site.url }}"/>cnpatterns</a>
+    </div>
+    <button class="navbar-light navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse main-menu" id="main-menu">
+      <ul class="navbar-nav">
+        <li><a href="{{ site.baseurl }}/"">Home</a></li>
+        <li class="dropdown">
+          <a href="{{ site.baseurl }}/patterns-library/" id="dropdown-patterns" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Patterns Library</a>
+          <div class="dropdown-menu {{ page.collection }} {{ page.name | split: "." | first }}" aria-labelledby="dropdown-patterns">
+            <a href="{{ site.baseurl }}/strategy-risk-reduction/" class="dropdown-item">Strategy & Risk Reduction</a>
+            <a href="{{ site.baseurl }}/organization-culture/" class="dropdown-item">Organization & Culture</a>
+            <a href="{{ site.baseurl }}/development-design/" class="dropdown-item">Development & Design</a>
+            <a href="{{ site.baseurl }}/infrastructure-cloud/" class="dropdown-item">Infrastructure & Cloud</a>
+          </div>
+        </li>
+        <li><a href="https://www.container-solutions.com/cloud-native-transformation-patterns-cards-order">Get the Cards</a></li>
+        <li><a href="{{ site.baseurl }}/how-to-use-cards/">How to Use</a></li>
+        <li><a href="{{ site.baseurl }}/contact-us/">Contact Us</a></li>
+      </ul>
+    </div>
+  </div>
+</div>

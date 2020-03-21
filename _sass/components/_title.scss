@@ -1,0 +1,25 @@
+.title-strip {
+  background-color: #fff;
+  background-image: url("#{$baseurl}/assets/images/pattern%20black_1.png");
+  background-size: cover;
+  color: #000;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 30px;
+  padding: 195px 0px;
+}
+
+.title {
+  align-items: center;
+  justify-content: space-between;
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+
+  h1 {
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 58px;
+    text-transform: uppercase;
+  }
+}

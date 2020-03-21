@@ -1,4 +1,0 @@
-baseURL = "http://cnpatterns.org/"
-languageCode = "en-us"
-title = "Cloud Native Patterns"
-theme = "book"

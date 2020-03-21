@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  {% include links.html %}
+</head>
+<body class="page">
+  {% include header.html %}
+  <div id="content" class="content {{ page.collection }}">
+    {% if page.url contains '/strategy-risk-reduction' %}<a href="{{ site.baseurl }}/strategy-risk-reduction" class="button-text">Return</a>{% endif %}
+    {% if page.url contains '/organization-culture' %}<a href="{{ site.baseurl }}/organization-culture" class="button-text">Return</a>{% endif %}
+    {% if page.url contains '/development-design' %}<a href="{{ site.baseurl }}/development-design" class="button-text">Return</a>{% endif %}
+    {% if page.url contains '/infrastructure-cloud' %}<a href="{{ site.baseurl }}/infrastructure-cloud" class="button-text">Return</a>{% endif %}
+    <h1>Pattern: {{ page.title }}</h1>
+    {{ page.description }}
+    {{ content }}
+  </div>
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>
