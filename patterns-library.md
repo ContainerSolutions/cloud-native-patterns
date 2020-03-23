@@ -13,15 +13,15 @@ We’ve organized Cloud Native patterns into four different families. Patterns f
 <div class="row patterns-section">
 
 {:.col-sm .d-flex .flex-column}
-[Strategy & Risk Reduction](/strategy-risk-reduction)[![Strategy & Risk Reduction]({{ site.baseurl }}/assets/images/Asset%2045.png){:height="410px" width="300px"}](/strategy-risk-reduction)
+[Strategy & Risk Reduction]({{ site.baseurl }}/strategy-risk-reduction)[![Strategy & Risk Reduction]({{ site.baseurl }}/assets/images/Asset%2045.png){:height="410px" width="300px"}]({{ site.baseurl }}/strategy-risk-reduction)
 
 {:.col-sm .d-flex .flex-column}
-[Organization & Culture](/organization-culture)[![Organization & Culture]({{ site.baseurl }}/assets/images/Asset%2044.png){:height="410px" width="300px"}](/organization-culture)
+[Organization & Culture]({{ site.baseurl }}/organization-culture)[![Organization & Culture]({{ site.baseurl }}/assets/images/Asset%2044.png){:height="410px" width="300px"}]({{ site.baseurl }}/organization-culture)
 
 {:.col-sm .d-flex .flex-column}
-[Development & Design](/development-design)[![Development & Design]({{ site.baseurl }}/assets/images/Asset%2047.png){:height="410px" width="300px"}](/development-design)
+[Development & Design]({{ site.baseurl }}/development-design)[![Development & Design]({{ site.baseurl }}/assets/images/Asset%2047.png){:height="410px" width="300px"}]({{ site.baseurl }}/development-design)
 
 {:.col-sm .d-flex .flex-column}
-[Infrastructure & Cloud](/infrastructure-cloud)[![Infrastructure & Cloud]({{ site.baseurl }}/assets/images/Asset%2043.png){:height="410px" width="300px"}](/infrastructure-cloud)
+[Infrastructure & Cloud]({{ site.baseurl }}/infrastructure-cloud)[![Infrastructure & Cloud]({{ site.baseurl }}/assets/images/Asset%2043.png){:height="410px" width="300px"}]({{ site.baseurl }}/infrastructure-cloud)
 
 </div>

@@ -10,7 +10,7 @@ When it comes to Cloud Native, most of us are junior. The technology is so new, 
 
 Patterns are not a hack. They are not a quick and easy way to solve difficult problems without careful thought. Instead, they are a language for sharing context-specific working solutions. And here is the place to find and explore Cloud Native patterns--and, soon, share some of your own. **This site is intended to be the home of a Cloud Native patterns community, the place to explore existing patterns and collaborate on creating new ones.** We openly welcome questions, conversation, and contributions!
 
-[Explore patterns](/patterns-library){:.button-text}
+[Explore patterns]({{ site.baseurl }}/patterns-library){:.button-text}
 
 <div class="row book-section">
 

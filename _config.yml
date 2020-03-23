@@ -4,6 +4,7 @@ title: Cloud Native Transformation Patterns
 
 kramdown: 
   parse_block_html: true
+permalink: /:title
 
 collections:
   development-design:

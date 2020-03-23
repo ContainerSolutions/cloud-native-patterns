@@ -6,7 +6,7 @@ layout: default
 
 <table>
 {% tablerow pattern in site.development-design cols:2 %}
-  <a href="{{ pattern.url }}" class="button development-design"></a>
-  <a href="{{ pattern.url }}">{{ pattern.title }}</a>
+  <a href="{{ site.baseurl }}{{ pattern.url }}" class="button development-design"></a>
+  <a href="{{ site.baseurl }}{{ pattern.url }}">{{ pattern.title }}</a>
 {% endtablerow %}
 </table>
