@@ -91,7 +91,7 @@
   }
 
   &:before {
-    background-color: #000;
+    /*background-color: #000;
     background-image: url("#{$baseurl}/assets/images/pattern%20white_1.png");
     background-size: auto 100%;
     content: "";
@@ -100,7 +100,19 @@
     margin-top: -150px;
     position: absolute;
     width: 200vw;
+    z-index: -1;*/
+    background-color: #000;
+    background-image: url(/cloud-native-patterns/assets/images/pattern%20white_1.png);
+    background-size: auto 100%;
+    content: "";
+    height: 100%;
+    left: calc(-50vw + 470px);
+    margin-top: -150px;
+    position: absolute;
+    width: auto;
     z-index: -1;
+    right: 0;
+    right: calc(-50vw + 470px);
   }
 }
 
