@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  {% include links.html %}
+</head>
+<body class="page">
+  {% include header.html %}
+  {% include title.html %}
+  <div id="content" class="content">
+    {{ content }}
+  </div>
+  <div class="book-section">
+    <div class="row content">
+      {% capture book-section %}{% include_relative book-section.md %}{% endcapture %}
+      {{ book-section | markdownify }}
+    </div>
+  </div>
+  <div class="row cta-section content">
+    {% capture cta-section %}{% include_relative cta-section.md %}{% endcapture %}
+    {{ cta-section | markdownify }}
+  </div>
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>
