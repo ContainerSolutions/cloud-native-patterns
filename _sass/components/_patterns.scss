@@ -2,6 +2,7 @@ $development-design-color: #e16b63;
 $infrastructure-cloud-color: #7a60a3;
 $organization-culture-color: #6eb2df;
 $strategy-risk-reduction-color: #80bfb1;
+$technical-color: #c2b748;
 
 .button {
   &.development-design {
@@ -18,6 +19,10 @@ $strategy-risk-reduction-color: #80bfb1;
 
   &.strategy-risk-reduction {
     background-color: #{$strategy-risk-reduction-color};
+  }
+
+  &.technical {
+    background-color: #{$technical-color};
   }
 }
 
@@ -45,6 +50,11 @@ $strategy-risk-reduction-color: #80bfb1;
 
   &.strategy-risk-reduction {
     background-color: #{$strategy-risk-reduction-color};
+    color: #000;
+  }
+
+  &.technical {
+    background-color: #{$technical-color};
     color: #000;
   }
 }
@@ -76,6 +86,12 @@ $strategy-risk-reduction-color: #80bfb1;
 
   &.strategy-risk-reduction {
     background-color: #{$strategy-risk-reduction-color};
+    background-image: url("#{$baseurl}/assets/images/pattern%20white_1.png");
+    color: #fff;
+  }
+
+  &.technical {
+    background-color: #{$technical-color};
     background-image: url("#{$baseurl}/assets/images/pattern%20white_1.png");
     color: #fff;
   }
