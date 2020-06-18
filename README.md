@@ -8,3 +8,6 @@ When it comes to Cloud Native, most of us are junior. The technology is so new, 
 This is far from an exhaustive list of patterns, and we welcome contributions from all industry practicioners who would like
 to share their expertise with the community in the form of patterns.
 Reach out to us [here](https://cnpatterns.org/contact-us) for help with writing your own patterns.
+
+# License
+See [LICENSE](LICENSE).
