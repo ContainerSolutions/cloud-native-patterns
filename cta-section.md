@@ -15,17 +15,6 @@ Going Cloud Native can be a big advantage, but it’s tough to get right. This p
 </section>
 
 <section class="col-sm d-flex flex-column">
-![Use the cards]({{ site.baseurl }}/assets/images/cards.png){:height="110px" width="120px"}
-
-**Use the cards**
-
-More than 70 Cloud Native patterns, printed on high-quality playing cards for hands-on exploration of transformation design paths, help you focus on building the right thing, right from the start.
-
-{:.mt-auto}
-[Get the cards](https://info.container-solutions.com/cnt-cards){:.button-text}
-</section>
-
-<section class="col-sm d-flex flex-column">
 ![Take a workshop]({{ site.baseurl }}/assets/images/workshop.png){:height="110px" width="120px"}
 
 **Take a workshop**
