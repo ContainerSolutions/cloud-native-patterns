@@ -44,8 +44,6 @@ Use a specific tool for managing and abstracting secret data from your applicati
 
 ## Consequently
 
-This pattern has the following benefits:
-
 {:.plusminus}
 - {:.plus} Developers do not have to worry about how or from where to retrieve secret data.
 - {:.plus} The security team does not need to slow down or stop the release process.
