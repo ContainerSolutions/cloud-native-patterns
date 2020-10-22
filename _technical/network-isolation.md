@@ -18,6 +18,7 @@ by default there is nothing blocking traffic (either malicious or by error) from
 
 By leveraging a feature such as NetworkPolicies in Kubernetes, we can block all unwanted traffic between services.
 
+#### Actions
 - Determine all expected traffic between your services. (A service mesh or tracing tool can generate this dynamically).
 - Define rules to block all (other) traffic between services.
 - Apply the created rules and monitor your applications for any problems created.
