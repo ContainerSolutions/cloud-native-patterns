@@ -33,5 +33,3 @@ We can specify the relative priority of our different applications in order to p
 - {:.plus} All services will be assigned a priority.
 When resources are exhausted on a node, the orchestration platform is able to make more intelligent decisions about which applications to kill/reschedule
 - {:.plus} When higher priority services are needed to be scheduled, and sufficient resources are not currently available, the orchestration platform is able to evict lower priority applications to make space.
-
-## Example - Setting Pod Priorities in Kubernetes
