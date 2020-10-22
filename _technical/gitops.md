@@ -27,6 +27,8 @@ Use a Git repository to store the current (desired) state of your infrastructure
 
 ## Consequently
 
+You get the single source of truth about your infrastructure and an easy way to audit changes to it.
+
 {:.plusminus}
 - {:.plus} We end up with a single source of truth for the (desired) state our infrastructure and applications
 - {:.plus} We use existing (tested) tools (Git) and workflows for managing changes to our system.
