@@ -6,13 +6,14 @@ layout: pattern
 
 ![Network Isolation]({{ site.baseurl }}/assets/images/cs.png)
 
-Separate applications running on one platform are susceptible to attacks from others.
+An organisation is utilising a container platform which runs multiple different systems, environments, shared by multiple teams or even customers.
+
 
 ## In This Context
 
-Within a container platform, we are encouraged to run multiple different systems, environments, shared by multiple teams or even customers.
-These can span different applications, teams, environments (e.g. dev/staging) and even clients (multi tenant). While these separate services should not normally access each other across certain boundaries (e.g. Namespaces),
-by default there is nothing blocking traffic (either malicious or by error) from crossing these boundaries.
+Multiple applications, teams, environments (e.g. dev/staging) and even clients (multi tenant) are sharing the platform. While these separate services should not normally access each other across certain boundaries (e.g. Namespaces),
+by default there is nothing blocking traffic (either malicious or by error) from crossing these boundaries. 
+Separate applications running on one platform can be susceptible to attacks from others.
 
 ## Therefore
 
@@ -28,6 +29,7 @@ By leveraging a feature such as NetworkPolicies in Kubernetes, we can block all 
     b) -> Fix the application making the undesired access
 
 ## Consequently
+
 {:.plusminus}
 - {:.plus} We have created a much more secure solution.
 - {:.plus} For any attacker who manages to compromise a service they are now severely limited in terms of damage they can due (#defenceInDepth)
