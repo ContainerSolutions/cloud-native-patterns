@@ -1,6 +1,6 @@
 ---
 title: Runbooks
-description: They provide a set of instructions, documents, which help to identify quickly the root cause for the incident and apply solution to it. 
+description: Use runbooks to proivide a set of instructions, documents, which help to identify quickly the root cause for incidents. 
 layout: pattern
 ---
 

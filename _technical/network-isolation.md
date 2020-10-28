@@ -1,6 +1,6 @@
 ---
 title: Network Isolation
-description: A key feature for having more granular control over connections to workloads.
+description: Leverage a tool to provide more granular control over connections to workloads.
 layout: pattern
 ---
 
