@@ -27,6 +27,7 @@ Based on standard RFC 5424 on how to log from applications, setup of the severit
 As the RFC is a standard there are standard libraries available for different programming languages/frameworks. Logging itself an agnostic practice and is not coupled to the programming language or framework in use.
 
 ## Consequently
+
 {:.plusminus}
 - {:.plus} Logging allows to easily locate what caused an issue 
 - {:.minus} Additional components are required
