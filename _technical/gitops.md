@@ -1,12 +1,12 @@
 ---
 title: GitOps
-description: GitOps - a single source of truth for infrastructure configuration
+description: Use Git as a single source of truth for infrastructure configuration
 layout: pattern
 ---
 
-![GitOps]({{ site.baseurl }}/assets/images/Generic.png)
+![GitOps]({{ site.baseurl }}/assets/images/cs.png)
 
-You have setup all your infrastructure as code (see #InfrastructureAsCode pattern).
+Following Infrastructure-as-Code practices your infrastructure is defined as code.
 
 ## In this Context
 
