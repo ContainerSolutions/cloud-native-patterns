@@ -44,6 +44,8 @@ Use a specific tool for managing and abstracting secret data from your applicati
 
 ## Consequently
 
+Secrets can be managed without any negative impact to agility without compromising security. 
+
 {:.plusminus}
 - {:.plus} Developers do not have to worry about how or from where to retrieve secret data.
 - {:.plus} The security team does not need to slow down or stop the release process.
