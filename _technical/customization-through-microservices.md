@@ -24,8 +24,9 @@ By creating a well defined 'customization' interface (API), customer specific mi
 
 ## Consequently
 
-{:.plusminus}
+Customization can be offered to customers without negatively impacting the core services or other customers.
 
+{:.plusminus}
 - {:.plus} Custom code is well contained within it's own microservice.
 - {:.plus} If the custom code breaks it does not affect other users.
 - {:.plus} We can set network boundaries, and resource limits on the custom microservices to create the necessary level of isolation.
