@@ -30,6 +30,8 @@ By leveraging a feature such as NetworkPolicies in Kubernetes, we can block all 
 
 ## Consequently
 
+Network security is enhanced within the shared platform with the ability to track subsequent changes.
+
 {:.plusminus}
 - {:.plus} We have created a much more secure solution.
 - {:.plus} For any attacker who manages to compromise a service they are now severely limited in terms of damage they can due (#defenceInDepth)
