@@ -26,6 +26,8 @@ We can specify the relative priority of our different applications in order to p
 
 ## Consequently
 
+You can leverage over-provisioning of resources for efficent use of infrastrcucture whilst adding a measure of protection for critical services.
+
 {:.plusminus}
 - {:.plus} All services will be assigned a priority.
 When resources are exhausted on a node, the orchestration platform is able to make more intelligent decisions about which applications to kill/reschedule
