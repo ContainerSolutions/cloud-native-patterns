@@ -29,6 +29,8 @@ The purpose of each type of data, logs and metrics, must first be well establish
 
 ## Consequently
 
+The team can get a clear, centralized  view on the overall health of the system and its components.
+
 {:.plusminus}
 - {:.plus} Log data is greatly simplified and reduced (saving cost).
 - {:.plus} When logs are needed (to debug an issue) finding the relevant logs becomes much easier.
