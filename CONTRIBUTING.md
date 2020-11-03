@@ -39,29 +39,30 @@ The pattern should use the following layout:
 
 ---
 title: <name of the pattern>
-description: <description>
+description: <1 line summary of pattern>
 layout: pattern
 ---
 
-![<name of the pattern>]({{ site.baseurl }}/assets/images/generic.png) //link to image if relevant
+![<diagram of the pattern>]({{ site.baseurl }}/assets/images/generic.png <link to image if relevant>) 
 
-<situation description>
+<A brief description of the context describing the parties involved as “you” or “an organisation”>
 
 ## In This Context
 
-<set context>
+<A brief description of the problems and issues that can be found in this context>
 
 ## Therefore
 
-<solution>
+<A description of the pattern that is the solution to the problems outlined before and the steps required to adopt that pattern>
 
 ## Consequently
 
-<impact of implementing the pattern>
+<A brief summary outlining the benefits of the pattern.>
 
+<A list of the positives and negatives of this approach grouped by effect>
 {:.plusminus}
-- {:.plus} <positive impact>
-- {:.minus} <negative impact>
+- {:.plus} <positive effect>
+- {:.minus} <negative effect>
 
 ```
 
