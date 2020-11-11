@@ -14,8 +14,8 @@ We use github to host code, to track issues and feature requests, as well as acc
 Pull requests are the best way to propose changes to the patterns. We actively welcome your pull requests:
 
 1. Fork the repo and create your branch from `master`.
-2. If you've added pattern, double check for typos
-3. If you've changed pattern, explain change in the PR comment
+2. If you've added a pattern, double check for typos
+3. If you've changed a pattern, explain your changes with a comment in the PR
 5. Make sure your patterns are following the structure of the pattern
 6. Issue that pull request!
 
