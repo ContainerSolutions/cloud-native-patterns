@@ -16,7 +16,7 @@ Teams tend to end up with one of two sets of problems:
 
 ##### High Security - Low Agility
 
-- All credentials are managed (manually) be a security team. Nobody usually knows where this team actually sits, there only interface is an obscure ticket filing system.
+- All credentials are managed (manually) by a security team. Nobody usually knows where this team actually sits, there only interface is an obscure ticket filing system.
 - Developers must submit requests to have the necessary credentials created and made available to their application.
 - Developers invent 'hacks' to work around the missing credentials locally or on a dev environment.
 
