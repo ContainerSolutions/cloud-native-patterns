@@ -29,7 +29,7 @@ be a consumer of the infrastructure platform and a service provider towards deve
 teams. The CI/CD Platform Team should treat CI/CD services as a product offered to all
 development teams. 
 
-This means feature requests should be phrased in way that is useful to
+This means feature requests should be phrased in a way that is useful to
 all users of the platform. All platform services should be self-service, CI/CD Platform Team 
 members should only interact with application developers in limited ways (e.g. support) so
 they can focus on building functionality. Thus the team is an internal product team, not an
