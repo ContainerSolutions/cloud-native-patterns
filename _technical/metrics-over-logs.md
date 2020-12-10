@@ -4,9 +4,9 @@ description: Use metrics as the primary data source to monitor application and s
 layout: pattern
 ---
 
-![Metrics over Logs]({{ site.baseurl }}/assets/images/cs.png)
-
 A team is moving from a legacy style monolithic system to a cloud native platform. Traditionally most information from applications gets pushed into logs. Cloud Native systems offer a better approach to gaining insight into our applications.
+
+![Metrics over Logs]({{ site.baseurl }}/assets/images/metrics.png)
 
 ## In This Context
 

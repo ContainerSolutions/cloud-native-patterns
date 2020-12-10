@@ -4,9 +4,9 @@ description: Use Git as a single source of truth for infrastructure configuratio
 layout: pattern
 ---
 
-![GitOps]({{ site.baseurl }}/assets/images/cs.png)
-
 Following Infrastructure-as-Code practices your infrastructure is defined as code.
+
+![GitOps]({{ site.baseurl }}/assets/images/gitops.png)
 
 ## In this Context
 
