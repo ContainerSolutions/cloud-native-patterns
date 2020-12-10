@@ -4,12 +4,12 @@ description: The CI/CD system is treated as a platform on top of the cloud platf
 layout: pattern
 ---
 
-![CI/CD as Platform]({{ site.baseurl }}/assets/images/cs.png)
-
 An Enterprise company is developing Cloud Native CI/CD services during a transformation or
 cloud migration. CI/CD services include building of container images, code quality checks,
 security scans and deployment of artifacts to environments. CI/CD plays a significant
 part in compliance requirements and making sure production systems are secure.
+
+![CI/CD as Platform]({{ site.baseurl }}/assets/images/cicd.png)
 
 ## In This Context
 

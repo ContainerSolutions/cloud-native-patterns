@@ -4,9 +4,11 @@ description: Leverage automation to create ephemeral environments on demand
 layout: pattern
 ---
 
-![Ephemeral Environments]({{ site.baseurl }}/assets/images/cs.png)
 
 A team running applications on modern cloud native platform (such as Kubernetes) often requires a variety of environments. Getting a production like environment running on a developers laptop is often not possible. The benefit of automated infrastructure means the cost of creating these environments is cheap. Running and managing them not so much.
+
+![Ephemeral Environments]({{ site.baseurl }}/assets/images/ephemeral_environments.png)
+
 
 ## In This Context
 
