@@ -4,11 +4,9 @@ description: Use a specific tool for managing and abstracting secret data from y
 layout: pattern
 ---
 
-
-The team is building applications using distributed microservices architecture. The secrets required by multiple services and environments need to be managed in a manner that doesnt negatively impact agility or security.
-
 ![Dynamic Secrets]({{ site.baseurl }}/assets/images/dynamic_secrets.png)
 
+The team is building applications using distributed microservices architecture. The secrets required by multiple services and environments need to be managed in a manner that doesnt negatively impact agility or security.
 
 ## In This Context
 

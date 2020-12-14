@@ -4,10 +4,9 @@ description: Services should be assigned different priorities depending on its i
 layout: pattern
 ---
 
-You have deployed multiple applications in a dynamically orchestrated environment. In dynamic/cloud environment we want to over provision our infrastructure in order leverage dynamic nature of our applications to use our resources (CPU/Memory) as efficiently as possible. 
-
 ![Service Priority]({{ site.baseurl }}/assets/images/service_priority.png)
 
+You have deployed multiple applications in a dynamically orchestrated environment. In dynamic/cloud environment we want to over provision our infrastructure in order leverage dynamic nature of our applications to use our resources (CPU/Memory) as efficiently as possible. 
 
 ## In This Context
 When resources (usually memory) are exhausted on a node/server our dynamic orchestration platform is forced to choose an application(s) to evict in order to avoid the entire node crashing. This can have negative effects if our critical applications are taken down.

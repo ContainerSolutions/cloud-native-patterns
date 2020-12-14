@@ -4,10 +4,9 @@ description: Use a customization API to handle customizations
 layout: pattern
 ---
 
-In a cloud based (SaaS) application, customization is generally an anti-pattern. However, there are certain areas, such as ERP and CRM platforms, where this is an essential feature of the system. A company with such a product, looking to migrate to a modern, SaaS, platform must be able to offer the same customization features to their customers.
-
 ![Customization Through Microservices]({{ site.baseurl }}/assets/images/saas.png)
 
+In a cloud based (SaaS) application, customization is generally an anti-pattern. However, there are certain areas, such as ERP and CRM platforms, where this is an essential feature of the system. A company with such a product, looking to migrate to a modern, SaaS, platform must be able to offer the same customization features to their customers.
 
 ## In This Context
 
