@@ -1,6 +1,6 @@
 ---
 title: Technical Patterns
-description: "Yadayada."
+description: "Patterns that focus on the technical and architectural aspects of how to build and operate Cloud Native services whilst ensuring their reliability and security."
 layout: default
 ---
 
