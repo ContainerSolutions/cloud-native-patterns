@@ -4,10 +4,9 @@ description: Use runbooks to proivide a set of instructions, documents, which he
 layout: pattern
 ---
 
-In case of an incident, an effective runbook allows to effectively manage and troubleshoot a system by providing a context for the engineer on duty.
-
 ![Runbooks]({{ site.baseurl }}/assets/images/runbooks.png)
 
+In case of an incident, an effective runbook allows to effectively manage and troubleshoot a system by providing a context for the engineer on duty.
 
 ## In This Context:
 When an alarm is triggered by breaching a defined threshold or condition a runbook links to information or standard procedures for handling an incident.

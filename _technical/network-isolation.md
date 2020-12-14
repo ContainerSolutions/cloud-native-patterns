@@ -4,9 +4,9 @@ description: Leverage a tool to provide more granular control over connections t
 layout: pattern
 ---
 
-An organisation is utilising a container platform which runs multiple different systems, environments, shared by multiple teams or even customers.
-
 ![Network Isolation]({{ site.baseurl }}/assets/images/network%20issolation.png)
+
+An organisation is utilising a container platform which runs multiple different systems, environments, shared by multiple teams or even customers.
 
 ## In This Context
 
