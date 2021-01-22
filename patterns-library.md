@@ -25,5 +25,5 @@ We’ve organized Cloud Native patterns into four different families. Patterns f
 [Infrastructure & Cloud]({{ site.baseurl }}/infrastructure-cloud)[![Infrastructure & Cloud]({{ site.baseurl }}/assets/images/Asset%2043.png){:height="410px" width="300px"}]({{ site.baseurl }}/infrastructure-cloud)
 
 {:.col-sm .d-flex .flex-column}
-[Technical]({{ site.baseurl }}/technical)[![Technical]({{ site.baseurl }}/assets/images/Asset%2048.png){:height="410px" width="300px"}]({{ site.baseurl }}/technical)
+[Operations]({{ site.baseurl }}/operations)[![Operations]({{ site.baseurl }}/assets/images/Operations-patterns.png){:height="410px" width="300px"}]({{ site.baseurl }}/operations)
 </div>
