@@ -15,7 +15,7 @@ collections:
     output: true
   strategy-risk-reduction:
     output: true
-  technical:
+  operations:
     output: true
 
 # Google Analytics
