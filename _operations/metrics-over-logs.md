@@ -25,7 +25,7 @@ The purpose of each type of data, logs and metrics, must first be well establish
 - Data sent to logs should be minimized as much as possible.
 - Relevant global metrics must be defined.
 - For each service, the owner must define metrics which are relevant and make them available to the monitoring system.
-- Metrics should comply with the Open Metrics (<https://openmetrics.io/)> standard.
+- Metrics should comply with the Open Metrics (<https://openmetrics.io/>) standard.
 
 ## Consequently
 
