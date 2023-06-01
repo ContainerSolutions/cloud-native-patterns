@@ -1,5 +1,5 @@
 # Cloud Native Transformation Patterns
-This site contains patterns for makeing your organisation Cloud Native. The official URL of the site is [https://cnpatterns.org](https://cnpatterns.org)
+This site contains patterns for making your organisation Cloud Native. The official URL of the site is [https://cnpatterns.org](https://cnpatterns.org)
 
 # What are Cloud Native Patterns?
 When it comes to Cloud Native, most of us are junior. The technology is so new, and our understanding of the architecture is constantly evolving. Sharing our rapidly growing knowledge is essential. Creating Cloud Native-specific patterns is a way to name the things we are learning as developers, engineers, and technology managers so we can talk to each other more effectively. As we learn and continue, the patterns will evolve and improve alongside our understanding.
